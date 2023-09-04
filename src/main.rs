@@ -48,7 +48,7 @@ fn sort(arr: &mut [u32]) -> Vec<Iteration> {
     // sortable.shell_sort();
     // sortable.quicksort(0, sortable.arr.len() - 1);
 
-    sortable.bogo_sort();
+    // sortable.bogo_sort();
 
     sortable.get_iterations()
 }
